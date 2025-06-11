@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Pranay0205/LeetCode/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Pranay0205/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Pranay0205/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Pranay0205/LeetCode/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Pranay0205/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/Pranay0205/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Matrix
 |  |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pranay0205/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Pranay0205/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
