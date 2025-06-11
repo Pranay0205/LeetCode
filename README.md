@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Pranay0205/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Pranay0205/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Depth-First Search
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pranay0205/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Pranay0205/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
