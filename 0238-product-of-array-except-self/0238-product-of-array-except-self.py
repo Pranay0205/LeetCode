@@ -5,7 +5,7 @@ class Solution:
 
         prefix = 1
         for i in range(len(nums)):
-            res[i] *= prefix
+            res[i] = prefix
             prefix *= nums[i]
 
         postfix = 1
