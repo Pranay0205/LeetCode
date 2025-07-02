@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pranay0205/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0445-add-two-numbers-ii](https://github.com/Pranay0205/LeetCode/tree/master/0445-add-two-numbers-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pranay0205/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranay0205/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Pranay0205/LeetCode/tree/master/0155-min-stack) |
+| [0445-add-two-numbers-ii](https://github.com/Pranay0205/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/Pranay0205/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Pranay0205/LeetCode/tree/master/0883-car-fleet) |
 ## Monotonic Stack
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Pranay0205/LeetCode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranay0205/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0445-add-two-numbers-ii](https://github.com/Pranay0205/LeetCode/tree/master/0445-add-two-numbers-ii) |
 ## Backtracking
 |  |
 | ------- |
