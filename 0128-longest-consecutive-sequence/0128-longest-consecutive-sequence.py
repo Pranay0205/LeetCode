@@ -3,11 +3,12 @@ class Solution:
         numset = set(nums)
         streak = 0
 
-        for n in nums:
+        for n in numset:
             if (n - 1) not in numset:
                 length = 0
                 while (n + length) in numset:
                     length += 1
+
                 streak = max(streak, length)
         
         return streak
