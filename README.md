@@ -34,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Pranay0205/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Pranay0205/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranay0205/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Pranay0205/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Pranay0205/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Pranay0205/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Pranay0205/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Pranay0205/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranay0205/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Pranay0205/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Pranay0205/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Pranay0205/LeetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Pranay0205/LeetCode/tree/master/0076-minimum-window-substring) |
