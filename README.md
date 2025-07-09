@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Pranay0205/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Pranay0205/LeetCode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Pranay0205/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Pranay0205/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Binary Search
 |  |
 | ------- |
